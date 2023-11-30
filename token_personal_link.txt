@@ -5,3 +5,7 @@ github_pat_11BEGVTHI0D3Ad3cXLvWja_OQ9v1Tl1D1wr1gtferISJhBaY8QCmGdB5qkD88uG3W4ICF
 
 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 (token classic)
 
+c45756324c24d0cdbfccd9050f3e05f8f3e74ae8 (api token)
+
+pa_autoconfigure_django.py --python=3.6 https://github.com/LaRisonga/my-first-blog.git
+
